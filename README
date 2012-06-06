@@ -1,0 +1,5 @@
+Basic SoundCloud page-scraping interface, allows listing a user's sets, tracks
+and the tracks in a set, as well as getting the streaming audio url for a 
+track.
+
+Requires BeautifulSoup 4, ('pip install beatifulsoup4' to install).
